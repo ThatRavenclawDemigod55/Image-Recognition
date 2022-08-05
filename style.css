@@ -1,0 +1,25 @@
+body {
+    color: white ;
+    background:rgb(7, 7, 69) ;
+}
+
+.heading {
+   width: 80% ;
+   font-size: 22px ;
+}
+
+#camera {
+    border: 2px dashed black ;
+    width: 350px ; 
+    height: 300px ;
+}
+
+.name_of_objects, #Object, #Accuracy {
+   color: goldenrod ;
+   font-weight: bolder;
+}
+
+label {
+    font-size: 30px;
+    color:azure;
+}
